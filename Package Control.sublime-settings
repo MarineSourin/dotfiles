@@ -8,6 +8,7 @@
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"Babel",
+		"Babel Snippets",
 		"Emmet",
 		"ERB Snippets",
 		"Git",
@@ -15,6 +16,7 @@
 		"Package Control",
 		"SCSS",
 		"SublimeLinter",
+		"SublimeLinter-eslint",
 		"SublimeLinter-rubocop"
 	]
 }
